@@ -1,0 +1,17 @@
+[package]
+name = "tuikit"
+version = "0.5.0"
+authors = ["Jinzhou Zhang <lotabout@gmail.com>"]
+description = "Toolkit for writing TUI applications"
+documentation = "https://docs.rs/tuikit"
+homepage = "https://github.com/lotabout/tuikit"
+repository = "https://github.com/lotabout/tuikit"
+readme  = "README.md"
+keywords = ["tui", "terminal", "tty", "color"]
+license = "MIT"
+edition = "2018"
+
+[dependencies]
+
+[dev-dependencies]
+env_logger = "0.6.1"
